@@ -1,7 +1,7 @@
 # Task-3-Heart-Disease-Prediction
 Heart Disease Prediction
 
-```markdown
+
 # Heart Disease Prediction Analysis
 
 ## 🎯 Task Objective
