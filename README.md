@@ -15,6 +15,7 @@ The primary goal of this project is to build a machine learning model capable of
 
 ##  Models Applied
 - **Algorithm:** Logistic Regression (with Feature Scaling).
+- **Approach:** Supervised Machine Learning (Binary Classification)
 - **Data Split:** 80% Training / 20% Testing with stratification.
 - **Scaling:** `StandardScaler` was applied to ensure all clinical measurements were weighted equally during model optimization.
 
@@ -26,10 +27,3 @@ The primary goal of this project is to build a machine learning model capable of
     - **`oldpeak`:** High ST depression during exercise significantly correlates with risk.
 - **Protective Factors:**
     - **`thalch`:** Higher maximum heart rate during exercise is the strongest indicator of cardiovascular health in this dataset.
-
-##  Skills Demonstrated
-- Exploratory Data Analysis (EDA) & Visualization (Seaborn/Matplotlib).
-- Data Cleaning and Feature Engineering.
-- Binary Classification Pipeline Development.
-- Model Evaluation (Confusion Matrix, ROC Curve, AUC).
-```
